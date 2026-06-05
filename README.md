@@ -23,7 +23,7 @@ php artisan serve
 
 ## Configuration
 
-Configure these values in `.env`:
+Configure these values in `.env` (used by `config/github-readme-stats.php`):
 
 - `GITHUB_TOKEN` (optional but recommended to reduce GitHub API rate limiting)
 - `WAKATIME_API_KEY` (required for `/api/wakatime`)
